@@ -1,0 +1,7 @@
+pywinauto
+pytesseract
+Pillow
+opencv-python
+pyautogui
+pyperclip
+keyboard
